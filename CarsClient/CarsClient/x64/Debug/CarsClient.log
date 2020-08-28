@@ -1,0 +1,2 @@
+﻿  CarsClient.cpp
+C:\Users\bekir\source\repos\AeroClient\CarsClient\CarsClient.cpp(1,10): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
